@@ -33,10 +33,12 @@ I develop and distribute AviUtl plugins that use noise algorithms such as Perlin
   <a href="https://pixijs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pixijs/pixijs-original.svg" alt="PixiJS" width="40" height="40"/></a>
   <a href="https://rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
   <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
 ## 🌐 Socials
 
-[![X](https://img.shields.io/twitter/follow/__take44444)](https://x.com/__take44444)
+<p align="center">
+  <a href="https://x.com/__take44444" target="_blank"><img src="https://img.shields.io/twitter/follow/__take44444" alt="X"/></a>
+</p>
 
