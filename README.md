@@ -32,6 +32,7 @@ I develop and distribute AviUtl plugins that use noise algorithms such as Perlin
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://nestjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://ui.shadcn.com" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" width="40" height="40"/></a>
   <a href="https://www.prisma.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/></a>
   <a href="https://pixijs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pixijs/pixijs-original.svg" alt="PixiJS" width="40" height="40"/></a>
   <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -41,7 +42,6 @@ I develop and distribute AviUtl plugins that use noise algorithms such as Perlin
   <a href="https://www.sqlalchemy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/></a>
   <a href="https://www.openapis.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI" width="40" height="40"/></a>
-  <a href="https://opentelemetry.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" width="40" height="40"/></a>
 </p>
 
 ## 🌐 Socials
